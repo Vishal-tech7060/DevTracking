@@ -9,9 +9,7 @@
 
 ## Project Glimps
 
-<img width="960" alt="image" src="https://github.com/itzabhinavarya/DevFinder/assets/95561280/e7e496a9-79cd-4f34-8a3d-ed0c66b0ccee">
-<img width="960" alt="image" src="https://github.com/itzabhinavarya/DevFinder/assets/95561280/641598e2-ea32-472f-9d83-9739a63202de">
-<img width="960" alt="image" src="https://github.com/itzabhinavarya/DevFinder/assets/95561280/8ce7f6af-e2cd-4813-87df-a1a5413a8130">
+
 
 
 
